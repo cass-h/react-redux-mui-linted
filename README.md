@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
+## Linters / Formatters
+
+The following linters and formatters are enabled as a starting point
+
+- stylelint
+  - stylelint-config-standard
+  - stylelint-config-recommended-scss
+  - stylelint-config-prettier
+  - stylelint-config-css-modules
+  - stylelint-scss
+- eslint
+  - @typescript-eslint/recommended
+  - prettier
+- prettier
+
 ## Available Scripts
 
 In the project directory, you can run:
